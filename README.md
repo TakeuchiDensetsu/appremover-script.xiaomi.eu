@@ -11,7 +11,7 @@ MIUI 10(WEEKLY 8.8.9:MI MAX 32GBで動作確認済み)
 * MiuiGallery.apk
 * Music.apk
 * Weather.apk
-* Calender.apk
+* Calendar.apk
 * ThemeManager.apk
 * Updater.apk
 
