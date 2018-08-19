@@ -22,6 +22,8 @@ ui_print("Removing ThemeManager ...");
 delete("/system/priv-app/ThemeManager/ThemeManager.apk");
 ui_print("Removing Updater ...");
 delete("/system/priv-app/Updater/Updater.apk");
+ui_print("Removing MiDrop ...");
+delete("/system/priv-app/MiDrop/MiDrop.apk");
 
 set_progress(0.6);
 ui_print("Removing app ...");
@@ -37,6 +39,8 @@ ui_print("Removing Notes ...");
 delete("/system/app/Notes/Notes.apk");
 ui_print("Removing BugReport ...");
 delete("/system/app/BugReport/BugReport.apk");
+ui_print("Removing MiuiVideo ...");
+delete("/system/app/MiuiVideoGlobal/MiuiVideo.apk");
 ui_print("Removing MiuiVideoGlobal ...");
 delete("/system/app/MiuiVideoGlobal/MiuiVideoGlobal.apk");
 
